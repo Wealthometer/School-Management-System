@@ -3,7 +3,7 @@ Connection connect = DriverManager.getConnection("jdbc:mysql://localhost/yourDat
 
 and you need to edit the login section, signup section, so much more that required to identify your own table on your database.
 
+
 That's it! 
 
 ~ Wealthometer :)
- 
